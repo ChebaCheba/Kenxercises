@@ -1,7 +1,7 @@
 print("Zup")
 while True:
     try:
-        x = int(input("Gimmie da intial NUMBER:"))
+        x = int(input("Gimmie da initial NUMBER:"))
         break
     except ValueError:
         print("You clearly do not know what a NUMBER is")
